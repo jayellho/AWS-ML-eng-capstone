@@ -13,5 +13,5 @@ code.ipynb - This contains the working code for the project. All cells have been
 history.csv - This is the detailed breakdown of the training and validation loss against the number of epochs.
 LR_prediction.csv - This details the exact values for predictions and truth labels for the linear regression benchmark model.
 LSTM_prediction.csv - This details the exact values for predictions and truth labels for the LSTM model.
-
+hyperparameter tuning.xlsx - This is a record of the relevant metrics for the different iterations of the model using different hyperparameters that were set manually.
 
